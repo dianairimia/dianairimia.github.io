@@ -1,8 +1,8 @@
-const version = '20200718232332';
+const version = '20200719000209';
 const cacheName = `static::${version}`;
 
 const buildContentBlob = () => {
-  return ["/general/2018/08/22/hello-world.html","/about.html","/categories.html","/blog/","/","/manifest.json","/assets/search.json","/assets/styles.css","", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
+  return ["/general/2018/08/22/hello-world.html","/about.html","/categories.html","/blog/","/","/manifest.json","/assets/search.json","/assets/styles.css","/redirects.json","/feed.xml","/sitemap.xml","/robots.txt","https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
   ]
 }
 

@@ -31,9 +31,11 @@
 
 # Build settings
 # theme: minima
+
+
 plugins:
   - jekyll-remote-theme
 
 remote_theme: daviddarnes/alembic
 
-
+github: [metadata]

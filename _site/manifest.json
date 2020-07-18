@@ -1,0 +1,9 @@
+{
+  "lang": "en-US",
+  "name": "dianairimia.github.io",
+  "short_name": "dianairimia.github.io",
+  "theme_color": "#24292e",
+  "background_color": "#ffffff",
+  "start_url": "/",
+  "display": "standalone"
+}
